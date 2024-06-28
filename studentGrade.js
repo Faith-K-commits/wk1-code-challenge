@@ -21,4 +21,4 @@ function getStudentGrade() {
     console.log(`The grade is: ${grade}`)
 };
 
-// getStudentGrade();
+getStudentGrade();
